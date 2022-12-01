@@ -1,0 +1,24 @@
+# document-similarity
+
+== What does this application do?
+
+This is a simple python application to experiment and play around with document similarity work in natural language processing while evaluating bleu score, spacy and tokenizers.
+
+
+== Technical Details
+- Python Documentation: link:https://www.python.org/[Python]
+- Version control: git
+- IDE: Pycharm (Pure Python Project with venv)
+
+
+
+== Developer Guide to run the code locally
+==== `git clone https://github.com/kalyansagi/document-similarity.git`
+
+==== `cd /document-similarity`
+
+==== `git checkout main`
+
+
+
+
